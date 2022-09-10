@@ -140,4 +140,5 @@ re2:
 	}
 
 	fmt.Print("123") // test
+	// test2
 }
