@@ -139,6 +139,5 @@ re2:
 		fmt.Printf("no communication\n")
 	}
 
-	fmt.Print("123")
-
+	fmt.Print("123") // test
 }
