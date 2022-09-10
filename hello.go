@@ -139,4 +139,6 @@ func main() {
 	default:
 		fmt.Printf("no communication\n")
 	}
+
+	fmt.Print("123")
 }
