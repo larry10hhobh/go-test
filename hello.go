@@ -140,6 +140,8 @@ re2:
 	}
 
 	fmt.Print("123456") // test
+	fmt.Print("1") // test
+
 	// test2
 	// test3
 	// test4
