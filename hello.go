@@ -139,7 +139,7 @@ re2:
 		fmt.Printf("no communication\n")
 	}
 
-	fmt.Print("123") // test
+	fmt.Print("123456") // test
 	// test2
 	// test3
 	// test4
